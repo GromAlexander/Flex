@@ -1,0 +1,38 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+.flex-container {
+    height: 100%;
+    width: 100%;
+
+}
+
+.flex-block{
+    height: 100%;
+    width: 350px;
+    background-color: yellow;
+}
+.fl-bl{
+    height: 250px;
+    width: 100%;
+    background-color: blue;
+}
+
+
+.fl-bl3 {
+    background-color: green;
+    height: 100px;
+    width: 100%;
+}
+.fl-bl2{
+    height: 100%;
+    width: 100%;
+}
+.fl-dl4{
+    height: 100%;
+    width: 250px;
+    background-color: red;
+
+}

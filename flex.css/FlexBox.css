@@ -1,0 +1,23 @@
+.flex-container{
+    display: flex;
+
+}
+
+
+.flex-block2{
+    width: 200px;
+    background-color: aqua;
+
+}
+.flex-center{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.Flex-white{
+    display: flex;
+    height: 100%;
+    flex-direction: row;
+}
